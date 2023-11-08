@@ -4,4 +4,4 @@ TO DO:
 
 -hardhat node cd leyip burdaki terminalde çalıştır
 
-video:13:18:29
+video:13:41:00
